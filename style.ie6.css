@@ -47,7 +47,7 @@ ul.hmenu, ul.hmenu ul, ul.hmenu li, ul.hmenu a {
 .hmenu a 
 {
    display:inline-block;
-   color: #E9ECEB;
+   color: purple;
    padding: 0 30px;
    line-height: 48px;
    text-align: center;
